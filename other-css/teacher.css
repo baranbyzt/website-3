@@ -1,0 +1,70 @@
+
+
+
+/*    all_teacher_wrapper starting  */
+
+.all_teacher_wrapper_1 {
+margin-top: 40px;
+margin-bottom: 0px;
+}
+.all_teacher_wrapper_2 {
+    margin-top: 0px;
+    margin-bottom: 40px;
+    }
+
+.inner_teacher {
+    
+    height: 580px;
+    text-align: center;
+}
+.inner_teacher img {
+    width: 100%;
+    height: 300px;
+    margin-top: 10px;
+}
+.txt_inner_teacher {
+padding: 10px;
+}
+.txt_inner_teacher h3 {
+margin-top: 20px;
+}
+.txt_inner_teacher p {
+margin-top: 40px;
+}
+.txt_inner_teacher b {
+    font-size: 10px;
+
+}
+/*     all_teacher_wrapper ending  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

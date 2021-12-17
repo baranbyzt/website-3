@@ -1,0 +1,57 @@
+
+
+
+
+/* forum starting */
+.form {margin-top: 60px;
+    margin-bottom: 20px;
+
+height: auto;
+}
+.inner_form_1 {
+    text-align: center;
+    display: flex;
+    position: relative;
+justify-content: center;
+align-content: center;
+
+}
+.inner_inner_from {
+    display: block;
+}
+.inner_form_2 {
+    position: relative;
+
+}
+.kraysis {
+    margin-top: 30px;
+}
+.kraysis2 {
+    margin-top: 20px;
+}
+.inivations {
+    display: inline-block;
+}
+/* forum ending */
+
+
+/*  map starting */
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
+/* map ending */
+
+
+
+
+
+
+
+
+
+
+
+

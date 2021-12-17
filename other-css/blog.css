@@ -1,0 +1,60 @@
+
+
+
+
+
+/*  card_blog_1  starting */
+.card_blog_1 {
+    margin-top: 70px;
+    text-align: center;
+}
+.otherlers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left; 
+    border-radius: 100%;
+    margin-top: 10%;
+    height: 100px;
+    width: 100px;
+    background-color: #cfcdcd;
+}
+.otherlers p {
+    font-size: 20px;
+    color: black;
+}
+.texts {
+    float: right;
+}
+.inner_blog_1_inner {
+    margin-top: 70px;
+}
+.inner_blog_1_inner h1 {
+    color: black;
+    font-size: 20px;
+}
+/*  card_blog_1  starting */
+
+
+
+/*  card_blog_2  starting */
+.card_blog_2 {
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.card  {
+    width: 380px !important ;
+    height: 440px !important ;
+}
+.card-text {
+    margin-top: 70px;
+}
+.inner_inner_card_1 {
+float: left;
+}
+.inner_inner_card_2 {
+    float: right;
+}
+/* card_blog_2  end */
+
+

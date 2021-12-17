@@ -1,0 +1,94 @@
+
+
+
+/*  pricing txt starting */
+.pricin_text {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.pricin_text h3,hr {
+    display: block;
+}
+.pricin_text hr {
+    margin-left: 30%;
+}
+.txt_p {
+    display: block;
+}
+/* pricing txt ending  */
+
+
+
+
+/* pricing information area starting */
+.pricing_information_wrapper {
+margin-top: 20px;
+height: auto;
+margin-bottom: 100px;
+border-radius: 10px;
+display: block;
+
+}
+.informattion-inner-item {
+    height: 580px;
+   position: relative;
+ 
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.inner_pricingg_1 {
+    width: 96%;
+    height: 70px;
+   
+  
+    top: 0px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.inner_pricingg_1 p {
+    font-size: 24px;
+}
+.inner_pricingg_2 {
+    width: 96%;
+    height: 70px;
+    z-index: 10000;
+background-color: rgb(238, 234, 234);
+border-radius: 10px;
+    top: 0px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+}
+#peryaerdollar {
+    font-size: 30px;
+    margin-right: 10px;
+}
+.inner_pricing_p {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn_pricing {
+    margin-top: 20px;
+    width: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border: black 1px solid;
+}
+.btn_pricing:hover {
+    transition-duration: 2s;
+    background-color: rgb(114, 111, 111);
+}
+
+/* pricing information area ending */
